@@ -15,7 +15,7 @@ import TestSlotComponent from '@/components/TestSlotComponent.vue'
         <span>主体</span>
     </template>
 
-    <template v-slot:233333333333>
+    <template #233333333333>
         <h2>
             嗷呜~
         </h2>
